@@ -1,3 +1,4 @@
+--SQL QUERIES FOR TELCO CUSTOMER CHURN ANALYSIS
 
 -- =========================================
 -- VALIDATION 1: Total Customer Records
