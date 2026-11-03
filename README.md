@@ -48,7 +48,7 @@ I used ChatGPT to support this project. AI helped me understand technical concep
 
 My role involved working through the analysis in Power Query, MySQL, Python and Power BI, running and reviewing the analytical steps, checking the results and developing the business interpretation.
 
-I used ChatGPT as a learning and, most importantly, a productivity tool.
+I used ChatGPT as a learning tool and, most importantly, a productivity tool.
 
 
 ## Project Deliverables
