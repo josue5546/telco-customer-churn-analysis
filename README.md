@@ -53,8 +53,17 @@ I used ChatGPT as a learning tool and, most importantly, a productivity tool.
 
 ## Project Deliverables
 
-The project includes a Power BI dashboard, SQL analysis, Python modelling, a consulting report and a management presentation.
+Explore the completed analysis and supporting documents:
 
+| Deliverable | Description |
+|---|---|
+| [SQL Analysis](sql/) | MySQL queries covering data validation, churn segmentation and historical billing exposure. |
+| [Python Analysis](python/) | Statistical hypothesis testing, logistic regression and model evaluation. |
+| [Power BI Dashboard](powerbi/) | Four-page dashboard presenting customer churn, billing exposure, management insights and model performance. |
+| [Consulting Report](reports/) | Full report covering methodology, findings, business recommendations and proposed retention pilot. |
+| [Management Presentation](presentation/) | Executive presentation communicating key insights, recommendations and implementation considerations. |
+
+**AI-Assisted Workflow:** ChatGPT supported coding, troubleshooting, analytical explanations and documentation, helping demonstrate how analysts can work more efficiently and provide management with timely, evidence-based insights. Analytical outputs require validation and human judgement.
 ## Data Source
 
 IBM Telco Customer Churn — a publicly available fictional telecommunications dataset.
